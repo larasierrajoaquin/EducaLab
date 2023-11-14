@@ -1,0 +1,12 @@
+from traitlets.traitlets import Integer
+import math
+
+def hallar_hipotenusa(a, b):
+    return math.sqrt(a**2 + b**2)
+
+a = float(input("Ingrese el valor del primer lado:"))
+b = float(input("Ingrese el valor del segundo lado:"))
+hipotenusa = hallar_hipotenusa(a, b)
+print(f"La longitud de la hipotenusa es: {hipotenusa}")
+
+print ("Lo logre")
