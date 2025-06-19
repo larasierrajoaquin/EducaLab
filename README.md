@@ -10,6 +10,10 @@ Este proyecto es una página web sencilla, escrita con HTML y CSS, que presenta 
 - Casos de uso para el aula
 - Diseño atractivo y animación suave con CSS
 
+## 👨‍🏫 Autor
+Joaquín Lara Sierra – Innovador Educativo y Líder Pedagógico
+© 2025 – Proyecto abierto para fines educativos.
+
 ## 🚀 ¿Cómo usar?
 
 1. Clona el repositorio:
